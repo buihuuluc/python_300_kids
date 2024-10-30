@@ -86,3 +86,4 @@ Mọi đóng góp & góp ý thì bạn có thể gửi [Pull Requests](https://g
 ---
 
 > *Về bản quyền của Repo và mã nguồn trong repo là hoàn toàn miễn phí cho các mục đích phi lợi nhuận và học tập. Tất cả các hành vi sao chép hay sử dụng vì mục đích thương mại thì đều là vi phạm.*
+#Python_300_kids
